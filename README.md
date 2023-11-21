@@ -21,6 +21,6 @@ _still italic_
 
 # LIST
 + ONE
-+ ONE
--ONE
- +  ONE
+- ONE
+* ONE
+  * togrther
