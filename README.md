@@ -18,3 +18,9 @@ _still italic_
 > one paragraph
 > > two pargraphs
 > > > ... three
+
+# LIST
++ ONE
++ ONE
+-ONE
+ +  ONE
